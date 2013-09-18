@@ -1,0 +1,3 @@
+3959 * acos( cos( radians(56.4999) ) * cos( radians( latitude ) ) 
+* cos( radians( longitude ) - radians(-2.95) ) 
++ sin( radians(56.4999) ) * sin( radians( latitude ) ) )
