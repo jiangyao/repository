@@ -1,0 +1,6 @@
+# Image files
+*.png
+*.gif
+
+# Thumbs
+*.db
